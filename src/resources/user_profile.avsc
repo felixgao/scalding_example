@@ -1,0 +1,1 @@
+{"type":"record","name":"UserProfile","fields":[{"name":"uuid","type":["string"]},{"name":"site_id","type":"int"},{"name":"ns","type":"int"},{"name":"cat","type":"int"},{"name":"last_ts","type":"int"},{"name":"freq","type":"int"}]}
